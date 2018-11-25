@@ -108,6 +108,6 @@ typings/
 # FuseBox cache
 .fusebox/
 
-./src/base.js
+src/base.js
 
 # End of https://www.gitignore.io/api/node,macos
